@@ -1,0 +1,13 @@
+{
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": false,
+  "files.associations": {
+    "*.svelte": "svelte"
+  },
+  "eslint.validate": ["javascript", "javascriptreact", "svelte"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
